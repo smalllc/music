@@ -2,10 +2,10 @@
   "name": "vue-music",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "k-water <625592890@qq.com>",
+  "author": "smallcc <1486887838@qq.com>",
   "private": true,
   "scripts": {
-    "dev": "node build/dev-server.js --host 192.168.1.105",
+    "dev": "node build/dev-server.js --host localhost",
     "start": "node build/dev-server.js",
     "build": "node build/build.js",
     "e2e": "node test/e2e/runner.js",
