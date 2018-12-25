@@ -74,8 +74,7 @@ PS：具体代码请看`prod.server.js`文件
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# serve with hot reload at localhost:8888
 
 # run e2e tests
 npm run e2e
